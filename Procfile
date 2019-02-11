@@ -1,0 +1,1 @@
+web: gunicorn rentanomad.wsgi --log-file -
